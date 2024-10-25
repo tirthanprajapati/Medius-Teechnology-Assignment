@@ -19,7 +19,7 @@ This project is a multi-page web application built using React with Next.js. The
 
 ## System Design
 
-![System Design](./public/system-design.png)
+![System Design](.better-replica\public\system-design.webp)
 
 ## Getting Started
 
