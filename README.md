@@ -17,6 +17,10 @@ This project is a multi-page web application built using React with Next.js. The
 3. **Mortgage Calculator Page**: Interactive calculator to estimate monthly payments.
 4. **Start Page**: Getting started with Better.com.
 
+## System Design
+
+![System Design](./public/system-design.png)
+
 ## Getting Started
 
 ### Prerequisites
